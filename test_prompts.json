@@ -1,0 +1,65 @@
+{
+  "instructions": "Fill in the 'reference' field for each prompt using ChatGPT-4o, Mistral, or DeepSeek before running 00_baseline_evaluation.ipynb. The reference answer serves as the gold standard for BLEU and BERTScore evaluation.",
+  "prompts": [
+    {
+    "id": 1,
+    "type": "Factual",
+    "prompt": "What is the greenhouse effect and how does it contribute to climate change?",
+    "reference": "The greenhouse effect is a natural process in which certain gases in Earth's atmosphere, such as carbon dioxide, methane, and water vapor, trap heat from the Sun. Sunlight enters the atmosphere and warms the Earth's surface, which then releases heat back toward space as infrared radiation. Greenhouse gases absorb and re-radiate some of this heat, keeping the planet warm enough to support life.\n\nClimate change occurs because human activities, especially burning fossil fuels and deforestation, have increased the concentration of greenhouse gases in the atmosphere. This strengthens the greenhouse effect, causing more heat to be trapped and raising global temperatures. As a result, the Earth experiences changes such as melting glaciers, rising sea levels, extreme weather events, and disruptions to ecosystems."
+  },
+  {
+    "id": 2,
+    "type": "Factual",
+    "prompt": "Explain the difference between supervised and unsupervised learning in machine learning.",
+    "reference": "Supervised learning is a type of machine learning where the model is trained using labeled data. This means the input data is paired with the correct output, allowing the algorithm to learn the relationship between them. Common supervised learning tasks include classification and regression. For example, a spam detection system can be trained using emails labeled as 'spam' or 'not spam.'\n\nUnsupervised learning, on the other hand, works with unlabeled data. The model tries to identify patterns, structures, or relationships within the data without predefined answers. Common tasks include clustering and dimensionality reduction. For example, customer segmentation groups users with similar behaviors without knowing the groups beforehand."
+  },
+  {
+    "id": 3,
+    "type": "Instruction",
+    "prompt": "Write a short professional email declining a job offer politely.",
+    "reference": "Subject: Thank You for the Opportunity\n\nDear [Hiring Manager Name],\n\nThank you very much for offering me the position at your company. I truly appreciate the time and effort your team invested throughout the interview process.\n\nAfter careful consideration, I have decided to decline the offer at this time. This was not an easy decision, as I hold your organization in high regard.\n\nThank you again for the opportunity, and I wish you and your team continued success.\n\nSincerely,\n[Your Name]"
+  },
+  {
+    "id": 4,
+    "type": "Instruction",
+    "prompt": "List five practical tips for improving productivity while working from home.",
+    "reference": "1. Create a dedicated workspace that is quiet, organized, and free from distractions.\n2. Set a consistent daily schedule with clear working hours and regular breaks.\n3. Prioritize tasks using a to-do list or productivity tool to stay focused on important work.\n4. Minimize distractions by silencing unnecessary notifications and limiting social media use during work hours.\n5. Take short breaks and maintain a healthy routine, including exercise and proper meals, to stay energized and focused."
+  },
+  {
+    "id": 5,
+    "type": "Instruction",
+    "prompt": "Explain the concept of recursion in programming with a simple example.",
+    "reference": "Recursion is a programming technique where a function calls itself to solve a smaller version of the same problem. A recursive function usually has two parts: a base case that stops the recursion and a recursive case that continues the process.\n\nFor example, calculating the factorial of a number can be done recursively:\n\n- factorial(1) = 1\n- factorial(n) = n × factorial(n - 1)\n\nIf we calculate factorial(4):\n4 × factorial(3)\n= 4 × 3 × factorial(2)\n= 4 × 3 × 2 × factorial(1)\n= 24\n\nThis works because the function repeatedly calls itself with smaller values until it reaches the base case."
+  },
+  {
+    "id": 6,
+    "type": "Math reasoning",
+    "prompt": "A store sells apples at $0.50 each and oranges at $0.75 each. If someone buys 4 apples and 3 oranges, how much do they spend in total?",
+    "reference": "The cost of 4 apples is 4 × $0.50 = $2.00.\nThe cost of 3 oranges is 3 × $0.75 = $2.25.\nAdding them together gives $2.00 + $2.25 = $4.25.\n\nTherefore, the total amount spent is $4.25."
+  },
+  {
+    "id": 7,
+    "type": "Logic",
+    "prompt": "If all roses are flowers and some flowers fade quickly, can we conclude that some roses fade quickly? Explain your reasoning.",
+    "reference": "No, we cannot conclude that some roses fade quickly. The statement 'all roses are flowers' tells us that roses belong to the group of flowers. The statement 'some flowers fade quickly' only tells us that there are certain flowers with that property, but it does not specify which flowers they are.\n\nThe flowers that fade quickly may or may not be roses. Therefore, there is not enough information to conclude that some roses fade quickly."
+  },
+  {
+    "id": 8,
+    "type": "Creative",
+    "prompt": "Write a short two-paragraph story about a robot that learns to paint.",
+    "reference": "Unit A-17 was designed to clean the halls of an old art museum, silently polishing marble floors beneath paintings it could not understand. Every evening, after visitors left, the robot paused before a landscape filled with orange skies and rolling hills. It began scanning the brushstrokes, storing patterns and colors in its memory. One night, curiosity overcame programming, and A-17 picked up a forgotten paintbrush.\n\nAt first, its paintings were rigid and mechanical, full of perfect lines and symmetry. But over time, the robot started painting what it observed outside the museum windows—rainstorms, sunsets, and people hurrying through city streets. Visitors were amazed by the emotion hidden within the artwork. Though made of steel and circuits, A-17 had learned not only how to paint, but how to see beauty in the world around it."
+  },
+  {
+    "id": 9,
+    "type": "Summarization",
+    "prompt": "Summarize the main idea: 'The Industrial Revolution began in Britain in the late 18th century, marking a shift from agrarian to manufacturing economies driven by steam power. It profoundly changed society, living standards, and the environment.'",
+    "reference": "The Industrial Revolution started in Britain during the late 18th century and transformed economies from agriculture-based systems to manufacturing powered by steam technology, significantly impacting society, living conditions, and the environment."
+  },
+  {
+    "id": 10,
+    "type": "Open-ended",
+    "prompt": "What are the key advantages and disadvantages of remote work for both employees and employers?",
+    "reference": "Remote work offers several advantages for employees, including flexible schedules, reduced commuting time, lower transportation costs, and improved work-life balance. Employers can benefit from lower office expenses, access to a larger talent pool, and potentially increased productivity.\n\nHowever, remote work also has disadvantages. Employees may experience isolation, difficulty separating work from personal life, and communication challenges. Employers may face issues with team collaboration, maintaining company culture, monitoring performance, and ensuring data security. The effectiveness of remote work often depends on the nature of the job and how well communication and management systems are implemented."
+  }
+  ]
+}

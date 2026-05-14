@@ -1,0 +1,201 @@
+# LLM Fine-Tuning Assignment — Implementation Plan
+
+## Context
+This assignment implements a full SFT → DPO fine-tuning pipeline on TinyLlama-1.1B. The project is run on Google Colab in phases (baseline → SFT → DPO), with a parallel report maintained in Markdown. The directory `E:\Dev\NLP Finetuning project` is empty — everything is created from scratch.
+
+---
+
+## Chosen Stack
+| Component | Choice | Reason |
+|---|---|---|
+| Base model | `TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T` | Fast on Colab free tier, Llama architecture, wide LoRA support |
+| SFT dataset | `tatsu-lab/alpaca` (52k samples, subset of 10k) | Classic beginner-friendly instruction dataset |
+| DPO dataset | `Intel/orca_dpo_pairs` (~12.8k, subset of 3k) | Clean chosen/rejected format, works directly with TRL DPOTrainer |
+| Training lib | `trl` (SFTTrainer + DPOTrainer) | Industry standard, minimal boilerplate |
+| PEFT | `peft` LoRA | Low memory footprint for Colab |
+| Quantization | `bitsandbytes` 4-bit NF4 | Fits 1.1B model on Colab T4 |
+| Evaluation | `evaluate` (BLEU) + `bert-score` | Required by assignment |
+
+---
+
+## Deliverables
+```
+E:\Dev\NLP Finetuning project\
+├── 00_baseline_evaluation.ipynb   # Phase 1: baseline eval of raw TinyLlama
+├── 01_sft_training.ipynb          # Phase 2: 5 SFT trials + eval
+├── 02_dpo_training.ipynb          # Phase 3: 5 DPO trials + eval
+├── test_prompts.json              # 10 prompts + GPT-4 reference answers
+└── report.md                      # Incremental report (converted to docx at end)
+```
+
+---
+
+## Phase 1 — Notebook 00: Baseline Evaluation
+
+**File:** `00_baseline_evaluation.ipynb`
+
+### Cells outline:
+1. **Install** — `transformers bitsandbytes accelerate evaluate bert-score sacrebleu`
+2. **Load model** — TinyLlama-1.1B in 4-bit NF4, `AutoTokenizer`
+3. **Test prompts** — 10 prompts hardcoded (see table below), loaded from `test_prompts.json`
+4. **Generation** — `model.generate()` with `max_new_tokens=200`, `temperature=0.7`, `do_sample=True`
+5. **BLEU eval** — `evaluate.load("sacrebleu")`, compute sentence-level BLEU per prompt
+6. **BERTScore eval** — `bert_score.score()` with `lang="en"`, rescale_with_baseline=True
+7. **Results table** — Print and save DataFrame with prompt, generated, BLEU, BERTScore-F1
+8. **Save** — Export `baseline_results.csv` to Google Drive
+
+### 10 Test Prompts (reference answers via ChatGPT-4o — user fills in column before running):
+| # | Type | Prompt |
+|---|------|--------|
+| 1 | Factual | "What is the greenhouse effect and how does it contribute to climate change?" |
+| 2 | Factual | "Explain the difference between supervised and unsupervised learning in machine learning." |
+| 3 | Instruction | "Write a short professional email declining a job offer politely." |
+| 4 | Instruction | "List five practical tips for improving productivity while working from home." |
+| 5 | Instruction | "Explain the concept of recursion in programming with a simple example." |
+| 6 | Math reasoning | "A store sells apples at $0.50 each and oranges at $0.75 each. If someone buys 4 apples and 3 oranges, how much do they spend in total?" |
+| 7 | Logic | "If all roses are flowers and some flowers fade quickly, can we conclude that some roses fade quickly? Explain your reasoning." |
+| 8 | Creative | "Write a short two-paragraph story about a robot that learns to paint." |
+| 9 | Summarization | "Summarize the main idea: 'The Industrial Revolution began in Britain in the late 18th century, marking a shift from agrarian to manufacturing economies driven by steam power. It profoundly changed society, living standards, and the environment.'" |
+| 10 | Open-ended | "What are the key advantages and disadvantages of remote work for both employees and employers?" |
+
+**Note:** `test_prompts.json` ships with a `"reference"` field set to `""` — user pastes in GPT-4o answers before running notebook. The notebook reads this field as the gold standard.
+
+---
+
+## Phase 2 — Notebook 01: SFT Training
+
+**File:** `01_sft_training.ipynb`
+
+### Cells outline:
+1. **Install** — `transformers peft trl bitsandbytes accelerate datasets evaluate bert-score`
+2. **Load dataset** — `tatsu-lab/alpaca`, shuffle, take first **10,000 samples**, split 90/10 train/val
+3. **Format function** — convert alpaca `{instruction, input, output}` to single prompt string:
+   ```
+   Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+   ### Instruction:
+   {instruction}
+
+   ### Input:
+   {input}  (omit if empty)
+
+   ### Response:
+   {output}
+   ```
+4. **Base model + tokenizer** — 4-bit NF4 BnB config, `max_seq_length=512`
+5. **Trial loop** — iterate over `TRIAL_CONFIGS` list (see below), for each:
+   - Build `LoraConfig`
+   - Build `TrainingArguments`
+   - Instantiate `SFTTrainer`
+   - Train and capture `val_loss`
+   - Run eval on 10 test prompts → BLEU + BERTScore
+   - Save adapter to `/content/drive/MyDrive/sft_trial_{n}/`
+   - Append row to results DataFrame
+6. **Best model selection** — rank by BERTScore-F1 (primary), BLEU (secondary), val_loss (tiebreaker)
+7. **Results table** — print full comparison, state winner
+
+### 5 SFT Trial Configurations:
+| Trial | r | lora_alpha | target_modules | lr | batch_size | grad_accum | epochs | Notes |
+|-------|---|------------|----------------|-----|------------|------------|--------|-------|
+| T1 | 4 | 8 | `q_proj, v_proj` | 2e-4 | 4 | 4 | 1 | Minimal LoRA, baseline config |
+| T2 | 8 | 16 | `q_proj, v_proj` | 2e-4 | 4 | 4 | 2 | Same modules, more epochs |
+| T3 | 16 | 32 | `q_proj, k_proj, v_proj, o_proj` | 1e-4 | 8 | 2 | 2 | More attention modules |
+| T4 | 32 | 64 | `q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj` | 5e-5 | 4 | 4 | 2 | Full LoRA, low LR |
+| T5 | 8 | 16 | `q_proj, v_proj` | 5e-4 | 8 | 2 | 1 | High LR experiment |
+
+All trials: `lora_dropout=0.05`, `bias="none"`, `task_type="CAUSAL_LM"`, `fp16=True`, `warmup_ratio=0.03`, `lr_scheduler_type="cosine"`, `weight_decay=0.01`.
+
+---
+
+## Phase 3 — Notebook 02: DPO Training
+
+**File:** `02_dpo_training.ipynb`
+
+### Cells outline:
+1. **Install** — same as SFT notebook
+2. **Load best SFT model** — load adapter from Drive path saved in Phase 2
+3. **Load DPO dataset** — `Intel/orca_dpo_pairs`, take **3,000 samples**, split 90/10 train/val
+4. **Format DPO data** — extract `prompt`, `chosen`, `rejected` columns into DPOTrainer-compatible format
+5. **Reference model** — load frozen copy of SFT model as `ref_model` (required by DPO)
+6. **Trial loop** — 5 DPO configs (see below):
+   - Build `LoraConfig` (r=8, same target modules as best SFT trial)
+   - Build `DPOConfig` with beta + training args
+   - Instantiate `DPOTrainer`
+   - Train, capture val_loss
+   - Eval on 10 test prompts → BLEU + BERTScore
+   - Save to Drive
+7. **Best DPO selection** — same ranking as SFT
+8. **Three-way comparison table** — Base vs Best SFT vs Best DPO on all 10 prompts
+
+### 5 DPO Trial Configurations:
+| Trial | beta | lr | batch_size | grad_accum | epochs | Notes |
+|-------|------|-----|------------|------------|--------|-------|
+| D1 | 0.1 | 1e-5 | 2 | 4 | 1 | Conservative start |
+| D2 | 0.1 | 5e-5 | 4 | 2 | 2 | More epochs |
+| D3 | 0.3 | 1e-5 | 2 | 4 | 1 | Higher beta (more conservative) |
+| D4 | 0.5 | 2e-5 | 4 | 2 | 2 | High beta + more epochs |
+| D5 | 0.1 | 1e-4 | 2 | 4 | 1 | High LR with low beta |
+
+All DPO trials inherit the LoRA rank/modules from the best SFT trial.
+
+---
+
+## Report Structure (`report.md` → final `.docx`)
+
+Maintained incrementally — one section added after each phase completes:
+
+1. **Platform Details** — Google Colab, T4 GPU, Python 3.10
+2. **Data Details** — alpaca (10k/52k used), orca_dpo_pairs (3k/12.8k used), justification
+3. **Baseline Results** — table of 10 prompts + base model outputs + BLEU/BERTScore
+4. **SFT Experiments** — table of 5 trials, best model selection rationale
+5. **DPO Experiments** — table of 5 trials, best model selection rationale
+6. **Three-way comparison** — Base vs SFT vs DPO outputs + metric table
+7. **Analysis & Insights** — LoRA impact, DPO beta effect, failure cases, resource usage
+8. **Reproducibility** — exact configs, runtime, GPU memory
+9. **References**
+
+---
+
+## Implementation Order (Phased for Colab)
+
+| Phase | Action | User runs on Colab | Deliverable |
+|-------|--------|--------------------|-------------|
+| 1 | Create `test_prompts.json` + `00_baseline_evaluation.ipynb` | ✓ Run notebook | `baseline_results.csv`, baseline section of report |
+| 2 | Create `01_sft_training.ipynb` | ✓ Run notebook (5 trials) | 5 saved adapters, `sft_results.csv`, SFT section of report |
+| 3 | Create `02_dpo_training.ipynb` | ✓ Run notebook (5 trials) | 5 saved adapters, `dpo_results.csv`, DPO section of report |
+| 4 | Finalize `report.md` | — | Convert to `.docx` with anthropic-skills:docx skill |
+
+---
+
+## Verification
+- **Baseline**: Run `00_baseline_evaluation.ipynb` end-to-end; confirm `baseline_results.csv` has 10 rows with BLEU/BERTScore values, base model responses are low-quality (expected).
+- **SFT**: Run `01_sft_training.ipynb`; confirm 5 adapters saved, `sft_results.csv` shows improving val_loss across reasonable configs, SFT responses are clearly more structured than baseline.
+- **DPO**: Run `02_dpo_training.ipynb`; confirm DPO responses are more aligned/polished than SFT, three-way comparison table shows progression.
+- **Report**: All tables numbered, figures cited, references section present.
+
+---
+
+## Key Libraries & Versions (pinned for reproducibility)
+```
+transformers>=4.40.0
+peft>=0.10.0
+trl>=0.8.6
+bitsandbytes>=0.43.0
+accelerate>=0.29.0
+datasets>=2.19.0
+evaluate>=0.4.1
+bert-score>=0.3.13
+sacrebleu>=2.4.0
+torch>=2.2.0  # Colab provides this
+```
+
+
+
+How to proceed (step by step):
+Fill test_prompts.json — paste ChatGPT-4o answers into each "reference" field.
+Run 00_baseline_evaluation.ipynb on Colab T4 → fills in baseline table.
+Run 01_sft_training.ipynb on Colab T4 (≈3–4 hours total for 5 trials) → note the best adapter path from Cell 13.
+Update Cell 4 + Cell 10 in 02_dpo_training.ipynb with the best SFT adapter path and LoRA params.
+Run 02_dpo_training.ipynb on Colab T4 → fills in DPO table and three-way comparison.
+Fill in all — values in report.md with your actual results.
+Convert to .docx — use /anthropic-skills:docx skill here in Claude Code.
