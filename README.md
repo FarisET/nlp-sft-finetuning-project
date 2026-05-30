@@ -2,6 +2,7 @@
 
 An end-to-end NLP assignment implementing supervised fine-tuning (SFT) followed by direct preference optimisation (DPO) on **TinyLlama-1.1B**, run entirely on Google Colab's free T4 GPU. Five trials are run for each phase, with the best adapter selected by BERTScore F1 and carried forward to the next phase.
 
+Deployed model: https://huggingface.co/FarisET/tinyllama-sft-dpo-alpaca-orca
 ---
 
 ## Results Summary
