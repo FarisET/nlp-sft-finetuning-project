@@ -1,5 +1,0 @@
-# Done folder
-## Contains executed python ipynb scripts with cell outputs
-
-# Results folder
-## .csv of Bleu, Bert F1 scores for multiple iterations of Baseline, SFT & DPO

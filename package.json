@@ -1,0 +1,19 @@
+{
+  "name": "nlp-finetuning-project",
+  "version": "1.0.0",
+  "description": "An end-to-end NLP assignment implementing supervised fine-tuning (SFT) followed by direct preference optimisation (DPO) on **TinyLlama-1.1B**, run entirely on Google Colab's free T4 GPU. Five trials are run for each phase, with the best adapter selected by BERTScore F1 and carried forward to the next phase.",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "docx": "^9.7.1"
+  }
+}
