@@ -1,0 +1,1064 @@
+2026-04-22 22:39:46 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-22 23:19:44 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-22 23:19:47 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-22 23:19:48 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-22 23:19:51 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-22 23:19:52 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-22 23:19:54 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-22 23:44:10 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-23 18:43:27 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-23 18:55:42 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-23 19:21:27 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-23 19:21:28 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-23 19:21:30 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-23 19:21:35 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-23 19:53:14 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-23 20:59:04 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-23 21:00:28 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-23 21:17:56 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-23 21:17:56 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-23 21:18:02 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-23 21:18:05 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-23 21:18:08 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-23 21:18:11 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-23 21:18:14 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-23 21:19:14 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-23 21:40:26 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-23 21:41:04 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-23 22:00:53 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-24 05:57:48 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 05:57:52 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-24 05:57:52 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 05:57:57 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 05:57:59 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 05:58:00 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-24 06:24:25 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-24 08:47:39 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 08:47:40 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 08:47:42 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-24 08:47:47 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 08:47:49 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 08:47:49 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-24 08:47:53 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 08:47:55 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 08:47:58 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 08:57:44 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 08:57:47 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 08:57:50 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 09:07:58 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 09:08:03 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 09:08:12 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 09:08:15 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 09:13:05 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 09:13:07 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 09:13:10 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 09:13:37 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 09:13:40 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 09:13:43 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 09:21:30 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 09:21:33 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 09:21:36 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 10:16:15 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 11:51:13 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 11:51:16 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-24 11:51:26 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 11:51:29 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 11:51:31 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 11:51:33 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 12:52:14 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-24 14:54:59 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 14:55:00 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-24 14:55:03 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 14:55:07 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-24 15:04:32 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 15:57:51 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 15:57:53 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-24 15:57:56 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 15:57:59 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 15:58:02 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 15:58:11 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 15:58:14 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 15:58:17 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-24 16:12:32 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-24 16:37:22 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 16:41:47 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-24 16:41:49 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 16:41:52 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 16:41:55 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 16:41:55 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-24 16:52:53 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 17:16:33 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 17:16:37 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 17:16:37 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-24 17:16:40 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 17:16:43 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 17:16:46 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 17:16:55 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 17:17:16 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-24 17:33:10 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 17:35:25 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 18:04:28 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-24 18:05:42 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-24 18:27:14 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 18:29:06 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 18:41:17 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 18:41:29 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 18:41:59 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 18:42:17 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 18:46:00 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 18:47:06 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 18:47:36 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 18:48:42 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 18:57:37 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 19:37:10 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-24 19:37:24 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-24 19:37:34 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 19:51:14 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 19:52:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 19:52:56 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 19:53:32 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 19:54:05 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 19:54:44 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 21:29:53 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 21:29:57 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-24 21:29:59 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 21:30:04 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 21:30:07 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 21:30:09 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-24 21:30:50 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 21:30:52 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-24 21:30:55 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 00:20:23 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 00:20:40 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 00:20:41 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-25 00:20:44 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 00:20:46 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 08:51:42 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-25 08:55:00 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-25 09:56:06 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-25 10:34:58 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-25 10:38:01 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-25 10:46:34 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-25 11:51:44 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 11:51:45 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 11:51:46 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-25 11:51:50 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-25 12:02:29 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 12:02:30 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-25 12:02:33 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 12:12:20 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 12:12:21 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-25 12:12:23 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 12:12:26 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 12:12:35 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-25 12:23:21 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-25 12:23:28 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-25 12:28:20 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 12:37:51 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 12:37:52 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-25 12:38:15 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-25 18:02:09 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-25 18:03:31 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 20:07:44 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-25 20:08:44 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 20:08:47 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 20:09:14 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 20:09:17 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 20:09:20 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-25 20:09:23 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 09:12:08 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 09:12:10 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-26 09:12:17 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 09:12:29 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 09:16:07 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-26 11:05:55 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 11:44:07 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 11:44:10 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-26 11:44:10 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 11:44:43 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-26 12:19:17 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:20:02 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:20:05 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:20:08 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:20:11 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:20:17 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:20:35 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:21:02 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:21:05 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:21:08 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:21:59 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:22:23 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:22:26 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:22:29 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:22:47 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:22:53 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:22:56 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:23:00 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:23:03 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:25:03 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:29:16 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:37:11 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 12:38:02 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 14:18:50 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-26 14:18:54 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 14:18:55 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-26 14:19:03 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 14:19:06 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 14:19:09 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 18:11:30 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 18:11:35 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-26 18:11:35 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 18:11:38 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 18:11:38 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-26 18:11:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 18:11:44 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 18:11:47 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 18:11:53 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 22:37:16 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 22:37:24 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-26 22:37:25 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 22:37:30 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 22:37:30 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 22:37:35 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 22:37:35 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-26 22:37:39 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 22:37:42 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 22:37:49 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 22:38:25 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 22:38:28 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 22:38:31 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 22:38:34 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 22:38:37 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 22:38:40 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-26 22:38:43 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 08:54:26 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-27 09:19:35 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 09:19:47 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 09:34:18 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-27 09:43:20 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-27 10:17:57 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 10:17:58 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-27 10:18:01 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 10:18:25 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 10:18:28 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 10:18:31 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-27 10:18:32 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 10:18:35 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 10:46:25 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 10:46:37 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-27 10:46:37 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 10:46:40 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 10:49:28 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 10:49:34 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 10:50:23 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-27 11:04:11 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-27 14:28:18 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-27 14:36:01 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-27 15:05:09 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-27 15:37:56 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 15:54:16 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 15:54:17 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-27 15:54:19 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 15:54:24 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-27 19:39:21 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 19:39:24 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-27 19:39:30 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 19:39:33 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 19:39:36 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 20:03:59 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 20:17:13 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 20:17:15 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-27 20:17:16 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 20:17:20 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-27 20:17:23 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 20:17:26 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 20:38:44 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 20:43:10 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 20:43:11 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-27 20:43:12 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 20:43:18 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-27 20:43:19 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-27 20:43:21 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 09:07:47 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-28 10:24:31 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 10:24:32 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-28 10:24:33 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 10:25:27 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-28 10:37:43 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 10:37:43 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 10:37:44 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-28 10:37:46 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 10:49:09 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-28 12:51:34 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 12:51:35 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-28 12:51:43 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 12:51:50 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-28 13:08:09 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 13:15:29 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 13:15:30 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-28 13:15:32 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 13:15:40 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-28 13:16:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 13:16:47 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 13:16:50 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 13:16:53 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 13:33:08 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 13:33:10 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-28 13:33:12 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 13:33:15 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 13:33:17 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-28 14:15:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 14:20:29 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 14:20:29 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 14:20:29 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-28 14:20:38 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 14:23:55 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-28 14:49:51 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 14:49:51 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-28 14:49:56 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 14:50:00 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-28 18:05:46 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 18:05:50 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-28 18:05:50 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 18:05:57 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 18:06:00 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 18:06:03 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-28 18:06:06 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 18:06:12 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 18:06:18 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 18:38:57 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-28 18:42:27 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 18:42:30 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 18:55:35 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-28 20:25:59 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-28 21:16:22 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 21:17:32 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 23:26:49 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 23:26:50 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-28 23:26:53 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 23:26:58 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 23:56:18 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-28 23:58:04 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 23:58:06 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 23:58:10 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 23:58:12 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 23:58:16 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 23:58:24 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 23:58:33 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 23:58:40 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 23:58:46 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 23:58:49 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 23:58:55 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-28 23:59:19 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 00:59:34 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 00:59:37 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 12:19:04 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-29 13:13:05 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 13:13:05 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-29 13:13:08 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 13:13:14 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-29 14:23:27 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 14:23:28 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-29 14:23:30 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 14:23:36 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-29 14:23:45 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 14:47:43 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 14:47:45 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-29 14:47:46 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 14:48:13 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 14:49:52 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-29 15:52:58 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 18:22:23 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 18:22:23 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-29 18:22:31 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 18:22:34 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 18:22:35 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-29 18:30:30 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 18:30:33 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 18:30:36 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 19:03:56 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 19:31:12 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 19:31:12 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-29 19:31:21 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-29 20:30:52 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 20:30:55 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-29 20:30:56 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-29 20:31:43 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-30 08:39:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-30 08:39:42 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-30 08:39:44 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-30 08:39:47 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-30 08:39:50 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-30 08:39:53 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-30 08:42:45 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-04-30 18:16:50 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-04-30 19:03:05 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-30 19:29:29 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-04-30 19:29:29 [info] [remote] network-interface change detected; probing SSH controllers
+2026-04-30 19:29:41 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-01 08:28:00 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 08:28:01 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-01 08:28:11 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 08:28:13 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 08:28:16 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 08:28:22 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 08:30:53 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-01 08:38:46 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-01 09:50:50 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 09:50:52 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-01 09:50:53 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 09:55:25 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-01 10:08:01 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-01 10:15:30 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 10:15:33 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 10:15:37 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 15:28:54 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 15:28:57 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 15:28:57 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-01 15:29:38 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-01 15:34:36 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 15:40:14 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 15:40:16 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-01 15:40:18 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 15:40:21 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 15:40:24 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 15:40:27 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 15:40:33 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-01 15:40:36 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 15:40:39 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 16:05:28 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 17:43:38 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 17:43:40 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-01 17:43:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 17:43:43 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 17:43:46 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 17:43:49 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 17:44:17 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-01 22:00:24 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 22:00:25 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-01 22:00:27 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 22:00:33 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 22:00:36 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 22:00:39 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 22:00:42 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 22:00:45 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 22:00:49 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-01 22:21:07 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 22:21:08 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-01 22:21:12 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 22:21:13 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 22:21:15 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-01 23:09:04 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 23:09:04 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-01 23:09:06 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-01 23:09:09 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 08:40:57 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 08:41:03 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 08:41:03 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-02 08:41:06 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 08:41:09 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 08:41:18 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 08:41:39 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 08:41:57 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 08:42:13 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-02 08:42:21 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 08:42:27 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 08:47:35 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-02 08:48:39 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-02 08:51:18 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-02 08:53:32 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-02 10:22:21 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-02 10:26:56 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-02 11:13:30 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-02 11:29:06 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-02 11:31:20 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-02 11:32:32 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-02 11:35:34 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-02 11:37:04 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-02 12:25:35 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 12:25:36 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-02 12:25:36 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 12:26:30 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-02 12:26:40 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 12:26:43 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 12:31:21 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 12:35:25 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 12:35:28 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 12:45:27 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 12:45:30 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 13:03:36 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 13:44:56 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-02 13:52:19 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 15:05:12 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 15:36:24 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 15:36:29 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-02 15:36:29 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 15:36:32 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 15:36:35 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 15:36:38 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 15:36:40 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-02 15:36:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 15:36:44 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 16:26:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 16:34:56 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 16:34:56 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-02 16:34:58 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 16:35:01 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 16:35:02 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-02 16:35:05 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 16:42:32 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 16:51:53 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 16:51:54 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-02 16:51:58 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 16:52:04 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 16:52:19 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-02 17:07:38 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 17:07:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 17:07:44 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 17:20:30 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 17:50:26 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-02 17:50:27 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 17:50:30 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 17:50:33 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 17:50:50 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-02 18:42:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 19:00:28 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 19:00:30 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-02 19:00:35 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-02 19:00:36 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 19:00:39 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 19:00:52 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 19:00:54 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 19:01:56 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-02 19:27:43 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-02 19:30:13 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-02 19:35:49 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-02 19:50:57 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-02 19:58:18 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 22:56:32 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 22:56:35 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-02 22:56:38 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 22:56:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 22:56:44 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 22:56:44 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-02 22:56:47 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 22:56:50 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 22:56:56 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 22:56:59 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 23:42:23 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 23:42:35 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 23:42:36 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-02 23:42:39 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 23:42:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-02 23:42:57 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-03 05:44:21 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 05:44:22 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-03 05:44:27 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 05:44:29 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 05:44:31 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-03 05:44:35 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 05:44:37 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 05:44:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 05:44:44 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 07:23:35 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-03 07:30:03 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-03 07:32:55 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-03 07:35:09 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 10:52:07 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 10:52:09 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-03 10:52:10 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 10:52:16 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 10:52:25 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 10:52:29 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-03 11:19:32 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 11:19:32 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-03 11:19:34 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 11:19:37 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 11:19:40 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 11:19:41 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-03 14:09:27 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-03 14:29:03 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 14:35:43 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 14:35:44 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-03 14:35:46 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 14:41:35 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-03 15:27:38 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 15:27:39 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-03 15:27:43 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 15:27:44 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 15:27:46 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-03 15:27:55 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 15:28:00 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 15:47:01 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-03 15:47:04 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 15:47:12 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 15:47:26 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-03 16:17:56 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-03 16:18:04 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-03 17:56:47 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 17:56:50 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-03 17:56:50 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 17:56:56 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 17:56:57 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-03 17:56:59 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 17:57:03 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 17:57:27 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 17:57:45 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 17:57:48 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 17:57:51 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 17:57:54 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 19:33:22 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 19:33:23 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-03 19:33:26 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 19:33:28 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 19:33:54 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-03 22:07:20 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 22:07:22 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-03 22:07:25 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-03 22:07:29 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-04 10:57:57 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-04 13:07:22 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 13:07:23 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-04 13:07:25 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 13:07:33 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-04 13:07:55 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 13:08:07 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 13:08:10 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 13:57:31 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 14:22:43 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 14:22:44 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-04 14:22:46 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 14:23:01 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-04 14:40:05 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 14:40:06 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-04 14:40:08 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 14:40:18 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-04 15:01:02 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 15:03:48 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 15:03:50 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-04 15:03:52 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 15:04:02 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-04 17:57:55 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 17:57:57 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-04 17:58:01 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 17:58:04 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 17:58:08 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 17:58:10 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 17:58:13 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 17:58:19 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 17:58:31 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 17:58:34 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 17:58:37 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 17:58:51 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-04 17:59:17 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 17:59:20 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 17:59:23 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 17:59:26 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 20:18:26 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-04 20:18:31 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 20:18:34 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 20:18:34 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-04 20:18:44 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 20:35:36 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-04 21:16:22 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-04 21:29:06 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-04 21:29:59 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-04 21:30:03 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-04 21:40:46 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-04 21:47:47 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-04 23:21:29 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 23:21:32 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-04 23:21:35 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 23:21:38 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 23:21:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-04 23:22:08 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-05 08:42:59 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-05 08:43:02 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-05 08:43:03 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-05 08:43:06 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-05 08:43:09 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-05 08:43:58 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-05 10:47:21 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-05 10:59:10 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-05 10:59:13 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-05 10:59:13 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-05 11:07:42 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-05 12:56:35 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-05 12:56:35 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-05 12:56:36 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-05 12:56:53 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-05 12:59:51 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-05 12:59:56 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-05 13:35:56 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-05 13:43:05 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-05 14:11:04 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-05 14:11:05 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-05 14:11:15 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-05 14:28:54 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-05 18:33:19 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-05 18:33:22 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-05 18:33:28 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-05 18:33:30 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-05 19:02:49 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-05 20:13:20 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-05 21:15:12 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-05 21:15:14 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-05 21:15:14 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-05 21:15:21 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-05 23:25:19 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-05 23:25:20 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-05 23:25:26 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-05 23:25:30 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-05 23:57:43 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-06 00:01:19 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-06 00:09:16 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-06 00:39:37 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 08:50:31 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-06 09:20:02 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 09:20:05 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-06 09:20:05 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 09:20:09 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-06 09:20:11 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 09:36:28 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 09:36:31 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-06 09:36:31 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 09:36:34 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 09:40:31 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-06 09:55:19 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 09:57:44 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 10:02:26 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 10:04:48 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 10:23:25 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 10:23:26 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-06 10:23:28 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 10:23:37 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-06 10:52:30 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-06 11:02:28 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 11:02:29 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-06 11:02:31 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 11:02:38 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-06 11:15:18 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 11:30:46 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-06 11:30:48 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 11:30:52 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-06 11:31:00 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 14:12:51 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 14:12:52 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-06 14:12:54 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 14:12:57 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-06 14:57:56 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-06 15:10:05 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 15:10:05 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-06 15:10:06 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 15:10:09 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 15:10:11 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-06 18:03:36 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 18:03:36 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-06 18:03:37 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 18:03:40 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 18:03:43 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-06 18:03:43 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 18:03:46 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 18:03:49 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 18:03:52 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 18:03:55 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 18:55:07 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 18:55:07 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-06 18:55:13 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 18:55:18 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-06 18:55:18 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 18:55:25 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 19:36:16 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-06 20:40:59 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-06 21:45:38 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-06 22:26:37 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 22:26:40 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-06 22:26:47 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 22:26:50 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 22:26:50 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-06 22:26:54 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 22:27:00 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 22:27:05 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 22:27:08 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-06 23:12:24 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-07 00:42:59 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 00:43:20 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-07 00:43:21 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 00:56:02 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-07 08:48:19 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-07 09:39:00 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-07 10:14:06 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-07 10:24:09 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-07 13:02:23 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 13:02:27 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-07 13:02:28 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 13:02:45 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-07 13:48:39 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 13:48:39 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-07 13:48:42 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 13:48:48 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-07 14:11:42 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 14:11:44 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-07 14:11:45 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 14:11:59 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-07 14:28:29 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 14:28:32 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-07 14:28:32 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 14:28:35 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 14:28:37 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-07 14:35:18 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 14:55:20 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 14:55:21 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-07 14:55:23 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 14:55:27 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-07 18:05:53 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 18:05:55 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 18:05:56 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-07 18:05:58 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 18:06:01 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 18:06:04 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-07 18:06:04 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 18:06:07 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 21:06:35 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-07 21:06:47 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-07 22:14:18 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 22:14:48 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 22:14:48 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-07 22:14:54 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-07 22:33:44 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 22:33:45 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-07 22:33:53 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 22:33:56 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 22:33:58 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-07 22:34:00 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 22:54:00 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 23:21:03 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-07 23:21:04 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-07 23:21:27 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-08 00:26:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-08 00:42:38 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-08 00:42:40 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-08 00:42:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-08 00:42:49 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-08 22:52:31 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-08 23:47:22 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-09 08:15:18 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-09 08:15:19 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-09 08:15:29 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-09 09:05:46 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-09 09:06:33 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-09 09:08:18 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-09 09:12:05 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-09 09:17:48 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-09 10:04:41 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-09 10:25:08 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-09 11:03:35 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-09 11:03:36 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-09 11:03:36 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-09 11:03:42 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-09 12:49:56 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-09 18:27:34 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-09 19:57:20 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-09 20:31:28 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-09 20:33:30 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-09 20:35:45 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-09 21:24:02 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-09 21:26:16 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-09 23:02:38 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-09 23:56:17 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-10 09:32:11 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-10 10:25:27 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 10:25:28 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-10 10:25:30 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 10:25:37 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-10 11:34:40 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-10 11:34:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 11:34:43 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 11:34:44 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-10 12:28:17 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 12:28:18 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-10 12:28:19 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 12:28:24 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-10 13:58:36 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 13:58:40 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-10 13:58:42 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 13:58:46 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 13:58:47 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-10 13:58:52 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 13:58:55 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 13:59:02 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 13:59:05 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 14:06:05 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 14:26:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 14:26:42 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-10 14:26:50 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-10 14:29:40 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 14:29:43 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 14:37:08 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 14:37:11 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 14:37:14 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 14:37:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 14:38:05 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 14:38:08 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 14:38:11 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 14:38:14 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 14:38:17 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 14:39:06 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 14:39:12 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 15:15:01 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 22:45:04 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 22:45:08 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-10 22:45:09 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 22:45:12 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-10 22:45:15 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 22:45:18 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 22:45:21 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 22:45:27 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-10 22:45:30 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 08:33:32 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 08:33:35 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-11 08:33:38 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 08:33:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 08:33:41 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-11 08:33:44 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 08:33:47 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 09:42:01 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 09:42:02 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-11 09:42:05 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 09:42:09 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-11 10:08:17 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-11 10:16:06 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 10:23:01 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 10:23:01 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-11 10:23:10 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 10:23:10 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-11 11:32:10 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 11:32:15 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-11 11:32:16 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 11:32:20 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-11 11:40:23 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 11:40:23 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-11 11:40:25 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 11:40:29 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-11 12:01:01 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 12:01:02 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-11 12:01:03 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 12:01:15 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-11 12:30:12 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 12:30:13 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-11 12:30:15 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 12:30:19 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-11 12:42:55 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 12:42:55 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-11 12:42:58 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 12:43:03 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-11 12:56:19 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 14:52:39 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 14:52:40 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-11 14:52:42 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 14:52:47 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-11 14:53:56 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-11 14:55:18 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-11 15:02:39 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-11 15:50:02 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 15:50:05 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-11 15:50:09 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 15:50:19 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-11 15:50:33 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 15:50:36 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 15:51:25 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 18:24:52 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 18:24:57 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-11 18:24:58 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 18:25:07 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 18:25:22 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 18:25:25 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 18:25:54 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 18:25:57 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 18:27:00 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 18:27:03 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 18:27:34 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 18:27:55 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 18:27:58 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 18:28:02 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-11 18:30:43 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-11 18:54:36 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-11 21:22:46 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-11 21:44:46 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-11 22:26:53 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-11 23:07:35 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 23:24:30 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 23:24:30 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-11 23:24:33 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 23:24:36 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 23:24:39 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 23:24:42 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 23:24:45 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 23:24:48 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-11 23:24:51 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-12 09:29:11 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-12 10:17:41 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 10:17:42 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-12 10:17:45 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 10:17:48 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 10:17:49 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-12 15:29:31 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-12 15:29:49 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-12 16:41:11 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-12 18:02:02 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 18:02:03 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-12 18:02:07 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 18:08:54 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-12 18:11:19 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-12 18:15:36 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-12 18:16:25 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 18:16:28 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 18:16:31 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 18:16:34 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 18:56:19 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 18:56:21 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-12 18:56:22 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 18:57:45 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-12 19:10:25 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 19:36:22 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-12 19:36:24 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 19:40:42 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-12 20:29:51 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 20:29:52 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-12 20:29:54 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 20:30:10 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-12 21:28:59 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 21:28:59 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-12 21:29:02 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 21:29:05 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 21:29:08 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 21:29:08 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-12 21:29:11 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 22:59:02 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 22:59:05 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-12 22:59:06 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 22:59:09 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 22:59:11 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-12 22:59:12 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 22:59:15 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 22:59:21 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 22:59:24 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-12 22:59:27 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-13 00:15:34 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-13 00:15:36 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-13 00:15:36 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-13 00:15:42 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-13 20:10:04 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-13 21:25:34 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-13 21:25:34 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-13 21:25:37 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-13 21:25:46 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-13 21:33:35 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-14 09:45:19 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-14 09:45:23 [info] [remote] powerMonitor:resume; probing SSH controllers
+2026-05-14 09:45:24 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-14 09:45:40 [info] [remote] powerMonitor:unlock-screen; probing SSH controllers
+2026-05-14 09:58:13 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-14 10:05:56 [info] [ClaudeSSHManager] Initialized with version <blob>
+2026-05-14 10:26:38 [info] [remote] network-interface change detected; probing SSH controllers
+2026-05-14 10:40:38 [info] [ClaudeSSHManager] Initialized with version <blob>

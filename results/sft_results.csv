@@ -1,0 +1,6 @@
+trial,desc,r,lora_alpha,target_modules,lr,batch_size,grad_accum,epochs,val_loss,mean_bleu,mean_bert_f1
+T1,"Minimal LoRA (r=4), 1 epoch",4,8,"q_proj, v_proj",0.0002,4,4,1,1.0083,4.8801,0.1889
+T2,"r=8, same modules, 2 epochs",8,16,"q_proj, v_proj",0.0002,4,4,2,0.9867,6.4503,0.221
+T3,"r=8, all attn modules (SAFE VERSION)",8,16,"q_proj, v_proj, o_proj",0.0001,2,8,2,0.9819,5.2721,0.2155
+T4,"r=16, extended LoRA (safe full-ish)",16,32,"q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj",5e-05,1,16,1,0.9801,5.1978,0.2198
+T5,"r=8, high LR (5e-4), 1 epoch",8,16,"q_proj, v_proj",0.0005,2,8,1,0.9873,5.6923,0.1872
