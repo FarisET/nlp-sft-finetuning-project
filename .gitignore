@@ -1,5 +1,15 @@
-.claude
+# Claude folder
+.claude/
+
+# Logs
+logs/
+*.log
+
+# JSONL files
+*.jsonl
+
+# Specific generated folder
+1857103e-2bc1-4aea-9440-6a9b848727b1/
+
+# Text file
 nlp project plan.txt
-1857103e-2bc1-4aea-9440-6a9b848727b1
-logs
-1857103e-2bc1-4aea-9440-6a9b848727b1.jsonl
